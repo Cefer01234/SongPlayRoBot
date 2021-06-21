@@ -1,22 +1,22 @@
 {
-    "name": "SongPlayRoBot",
+    "name": "E3 Song Bot",
     "logo": "https://telegra.ph/file/cb7b0aead06c96955323e.jpg",
     "description": "Grabs song from yt and sends it to telegram by @TamilBots",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org.",
-            "required": true
+            "description": "2117094 ",
+          ": true
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org.",
+            "description": " 320ea2800c94cd69ff4d5e80f5a04491",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Get this value by making a bot from @BotFather.",
+            "description."1615164484:AAGI9_YDS_ZQ5xfrS0DcNkoHYY3h6__WP6o,
             "required": true
         },
         "OWNER_ID": {
-            "description": "Your telegram user id.",
+            "description": "1755387639",
             "required": true
         }
     },
