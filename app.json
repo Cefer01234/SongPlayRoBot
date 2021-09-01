@@ -1,22 +1,22 @@
 {
-    "name": "SongPlayRoBot",
-    "logo": "https://telegra.ph/file/cb7b0aead06c96955323e.jpg",
+    "name": "Old School Zona Song",
+  
     "description": "Grabs song from yt and sends it to telegram by @TamilBots",
     "env": {
         "API_ID": {
-            "description": "Get this value from my.telegram.org.",
+            "description": "2630368",
             "required": true
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org.",
+            "description": "658ba9e18a4fec6bc76e2f87734d5514",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "Get this value by making a bot from @BotFather.",
+            "description": "1970844353:AAEYu6nsDkeS6_slIHFu0w7VFCw8uHE8JLg",
             "required": true
         },
         "OWNER_ID": {
-            "description": "Your telegram user id.",
+            "description": "1978990717",
             "required": true
         }
     },
